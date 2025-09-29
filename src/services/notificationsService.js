@@ -8,7 +8,7 @@
  * - Historial de notificaciones
  */
 
-const API_BASE_URL = 'http://localhost:8000/api/notifications';
+const API_BASE_URL = 'https://backendcondominio-production.up.railway.app/api/notifications';
 
 // Obtener headers de autenticación
 const getAuthHeaders = () => {

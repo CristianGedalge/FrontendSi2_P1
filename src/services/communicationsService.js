@@ -33,7 +33,7 @@ export const getAviso = async (id) => {
  * - Estadísticas
  */
 
-const API_BASE_URL = 'http://localhost:8000/api/communications';
+const API_BASE_URL = 'https://backendcondominio-production.up.railway.app/api/communications';
 
 // Obtener headers de autenticación
 const getAuthHeaders = () => {

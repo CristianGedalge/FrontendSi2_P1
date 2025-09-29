@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://127.0.0.1:8000/api/finances';
+const API_BASE_URL = 'https://backendcondominio-production.up.railway.app/api/finances';
 
 // Función helper para obtener headers con autenticación
 const getAuthHeaders = () => {
